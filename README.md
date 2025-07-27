@@ -1,5 +1,8 @@
 # Snowpark ML TelcoChurn Lab End-to-End Customer Loss Prediction in Snowflake
 
+Link to the project's code: https://colab.research.google.com/drive/1wYoXStcgCDfPjlgYdpyyxYDKSYA5rZjq#scrollTo=6txPqW0E2tXX
+
+
 # Telecom Customer Churn Prediction with Snowflake
 
 
