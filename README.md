@@ -2,7 +2,6 @@
 
 # Telecom Customer Churn Prediction with Snowflake
 
-![Churn Prediction Dashboard](at_risk_dashboard.png)
 
 ## Project Overview
 This project demonstrates a complete Snowflake-based machine learning workflow for predicting customer churn in the telecom industry. The solution showcases key Snowflake capabilities including Snowpark ML for model training, Cortex ML for in-database scoring, and scheduled Tasks for production deployment.
