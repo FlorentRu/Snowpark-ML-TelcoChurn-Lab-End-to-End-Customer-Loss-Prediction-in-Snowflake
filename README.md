@@ -7,9 +7,6 @@ Link to the project's code: https://colab.research.google.com/drive/1wYoXStcgCDf
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wYoXStcgCDfPjlgYdpyyxYDKSYA5rZjq#scrollTo=6txPqW0E2tXX)
 
 
-# Telecom Customer Churn Prediction with Snowflake
-
-
 ## Project Overview
 This project demonstrates a complete Snowflake-based machine learning workflow for predicting customer churn in the telecom industry. The solution showcases key Snowflake capabilities including Snowpark ML for model training, Cortex ML for in-database scoring, and scheduled Tasks for production deployment.
 
